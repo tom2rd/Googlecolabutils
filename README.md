@@ -1,5 +1,5 @@
 # Jupiter Notebooks Google colab utilities.
-Just copied from Tutorials
+Just copied and modified to Google colab from many Tutorials
 
 * Top Directory
   * Many Sample Utilities for Google colab in Top Directory.
