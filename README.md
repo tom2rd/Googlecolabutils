@@ -15,6 +15,6 @@ Just copied and modified to Google colab from many Tutorials
 * [Electromagnetics](https://github.com/tom2rd/Googlecolabutils/tree/master/Electromagnetics)
   * Electromagnetic simulation samples.
   *  [Google Colaboratory Electromagnetic Lectures](https://github.com/tom2rd/Googlecolabutils/tree/master/Electromagnetics)
-* [Science](https://github.com/tom2rd/Googlecolabutils/science)
+* [Science](https://github.com/tom2rd/Googlecolabutils/tree/master/science)
   * Some scientific programing codes.
   *  [Google Colaboratory Scientific Lectures](https://github.com/tom2rd/Googlecolabutils/tree/master/science)
